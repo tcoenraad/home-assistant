@@ -265,6 +265,9 @@ doorbirdpy==2.1.0
 # homeassistant.components.dsmr
 dsmr_parser==0.18
 
+# homeassistant.components.dvsportal
+dvsportal==0.1.9
+
 # homeassistant.components.dynalite
 dynalite_devices==0.1.46
 

@@ -1,0 +1,12 @@
+{
+  "domain": "dvsportal",
+  "name": "DVSPortal",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/dvsportal",
+  "requirements": ["dvsportal==0.2.1"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@tcoenraad"]
+}

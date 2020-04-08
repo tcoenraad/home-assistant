@@ -44,6 +44,7 @@ FLOWS = [
     "directv",
     "doorbird",
     "dunehd",
+    "dvsportal",
     "dynalite",
     "eafm",
     "ecobee",

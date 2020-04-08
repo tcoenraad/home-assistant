@@ -1,0 +1,23 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Device is already configured"
+        },
+        "error": {
+            "cannot_connect": "Failed to connect, please try again",
+            "invalid_auth": "Invalid authentication",
+            "unknown": "Unexpected error"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "api_host": "Host",
+                    "identifier": "Identifier",
+                    "password": "Password"
+                },
+                "title": "DVSPortal"
+            }
+        },
+        "title": "DVSPortal"
+    }
+}
